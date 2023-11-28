@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: uzair1785/python_auth:v1.1
+        tags: uzair1751/python_auth:v1.1
